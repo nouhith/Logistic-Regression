@@ -11,7 +11,7 @@ This notebook walks through all essential steps of a binary classification pipel
 - **Breast_cancer.csv**:  
   The dataset containing labeled breast cancer diagnostic data.
   
-- **Logistic_Regression_BreastCancer.ipynb**:  
+- **Logistic Regression.ipynb**:  
   Jupyter notebook that includes all code, explanations, evaluation, and visualizations.
 
 ---
